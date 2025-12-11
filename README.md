@@ -70,6 +70,16 @@ Connect the components as shown in the schematic diagram (refer to your project 
 | Long press encoder | Enter time/alarm setting mode |
 | Rotate encoder | Adjust values |
 | Long press in countdown | Start/reset countdown |
+![WhatsApp Image 2025-12-11 at 13 43 21 (1)](https://github.com/user-attachments/assets/0386f4f6-3b1d-48c1-863f-a13d52cfe3df)
+![WhatsApp Image 2025-12-11 at 13 43 22](https://github.com/user-attachments/assets/81f6bbac-5727-4378-ae77-78e0639e7c1e)
+![WhatsApp Image 2025-12-11 at 13 43 22 (1)](https://github.com/user-attachments/assets/83842ecd-587e-47c7-bf46-1879d5db84ef)
+![WhatsApp Image 2025-12-11 at 13 43 18](https://github.com/user-attachments/assets/357b2b2b-8816-419b-b411-329cc146bed4)
+![WhatsApp Image 2025-12-11 at 13 43 19](https://github.com/user-attachments/assets/6ac94a4e-2bb7-45fe-808e-e1429c5ccdb8)
+![WhatsApp Image 2025-12-11 at 13 43 19 (1)](https://github.com/user-attachments/assets/e23a1032-13fe-42e4-aa14-fc88571a5c23)
+![WhatsApp Image 2025-12-11 at 13 43 19 (2)](https://github.com/user-attachments/assets/2c29b837-bd6a-4eda-9f96-b9885269f31a)
+![WhatsApp Image 2025-12-11 at 13 43 20](https://github.com/user-attachments/assets/6a23a28a-14e3-48ae-9073-b29250a0652c)
+![WhatsApp Image 2025-12-11 at 13 43 20 (1)](https://github.com/user-attachments/assets/59e7572c-ef26-4a7a-a852-061af5de04ac)
+![WhatsApp Image 2025-12-11 at 13 43 21](https://github.com/user-attachments/assets/2f879748-2502-4338-98d7-d3c780a2671a)
 
 _(Control behavior may vary slightly depending on firmware settings.)_ :contentReference[oaicite:3]{index=3}
 
